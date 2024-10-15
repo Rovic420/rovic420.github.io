@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to My Portfolio
 
 This is my portfolio website built using Jekyll on GitHub Pages.
