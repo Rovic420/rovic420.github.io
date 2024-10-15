@@ -1,5 +1,5 @@
 ---
-title: Home
+layout: default
 ---
 
 # Welcome to My Portfolio
