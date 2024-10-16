@@ -1,10 +1,10 @@
-# Welcome to My Portfolio
+# Welcome to My Github Portfolio
 
 This is my portfolio website built using Jekyll on GitHub Pages.
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate developer and designer. I love creating beautiful and functional websites.
+Hello! I'm Rovic Deloy, a passionate developer and designer. I love creating beautiful and functional websites.
 
 ## Projects
 
