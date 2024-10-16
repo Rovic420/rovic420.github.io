@@ -15,4 +15,4 @@ A brief description of your first project.
 A brief description of your second project.
 
 ## Contact
-Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out to me at [Deloy371@pm.me](Deloy371pm.me).
